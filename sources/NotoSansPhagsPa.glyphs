@@ -37,7 +37,7 @@ code = "uniA856.mir.med.cnt uniA85C.mir.med.cnt uniA85E.mir.med.cnt uniA85F.mir.
 name = mirrorable.mir.med.cnt;
 }
 );
-copyright = "Copyright 2017-2022 Google Inc. All Rights Reserved.";
+copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/phags-pa)";
 customParameters = (
 {
 name = glyphOrder;
@@ -474,11 +474,11 @@ value = "Designed by Monotype design team.";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -490,7 +490,11 @@ value = "Noto is a trademark of Google Inc.";
 },
 {
 name = versionString;
-value = "Version 2.002";
+value = "Version 2.003";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2017-10-20 14:10:10 +0000";
@@ -13799,5 +13803,5 @@ manufacturer = "Monotype Imaging Inc.";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 2;
+versionMinor = 3;
 }
