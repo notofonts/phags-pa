@@ -1,5 +1,5 @@
 {
-.appVersion = "3109";
+.appVersion = "3202";
 DisplayStrings = (
 "/uni25CC"
 );
@@ -515,7 +515,7 @@ code = "sub @inis' [uniA861.med uniA861.fin] by @inis.cnt;\012sub [uniA861.med u
 name = calt;
 },
 {
-code = "\012sub [uniA869 uniA86A uniA86B uniA86C @mirrorable.mir] @mirrorable' by @mirrorable.mir;\012\012lookup mirror {\012    sub uniA85E uniFE00 by uniA85E.mir;\012    sub uniA85C uniFE00 by uniA85C.mir;\012    sub uniA856 uniFE00 by uniA856.mir;\012    sub uniA860 uniFE00 by uniA860.mir;\012    sub uniA85F uniFE00 by uniA85F.mir;\012    sub uniA868 uniFE00 by uniA868.mir;\012\012    sub uniA856.mir uniFE00 by uniA856;\012    sub uniA85C.mir uniFE00 by uniA85C;\012    sub uniA85E.mir uniFE00 by uniA85E;\012    sub uniA85F.mir uniFE00 by uniA85F;\012    sub uniA860.mir uniFE00 by uniA860;\012    sub uniA868.mir uniFE00 by uniA868;\012} mirror;\012\012lookup reverse_mirror {\012	sub @mirrorable' @mirrorable.mir by @mirrorable.mir;\012} reverse_mirror;";
+code = "\012sub [uniA869 uniA86A uniA86B uniA86C @mirrorable.mir] @mirrorable' by @mirrorable.mir;\012\012lookup mirror {\012    sub uniA85E uniFE00 by uniA85E.mir;\012    sub uniA85C uniFE00 by uniA85C.mir;\012    sub uniA856 uniFE00 by uniA856.mir;\012    sub uniA860 uniFE00 by uniA860.mir;\012    sub uniA85F uniFE00 by uniA85F.mir;\012    sub uniA868 uniFE00 by uniA868.mir;\012\012    sub uniA856.mir uniFE00 by uniA856;\012    sub uniA85C.mir uniFE00 by uniA85C;\012    sub uniA85E.mir uniFE00 by uniA85E;\012    sub uniA85F.mir uniFE00 by uniA85F;\012    sub uniA860.mir uniFE00 by uniA860;\012    sub uniA868.mir uniFE00 by uniA868;\012} mirror;\012\012lookup reverse_mirror {\012	sub @mirrorable.mir @mirrorable' by @mirrorable.mir;\012} reverse_mirror;\012";
 name = ltrm;
 },
 {
